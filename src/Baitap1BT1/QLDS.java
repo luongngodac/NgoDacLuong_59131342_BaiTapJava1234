@@ -1,4 +1,4 @@
-package app;
+package Baitap1BT1;
 
 public class QLDS {
     //them ca nhan, in danh sach ca nhan.

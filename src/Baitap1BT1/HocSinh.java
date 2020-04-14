@@ -1,4 +1,4 @@
-package app;
+package Baitap1BT1;
 
 public class HocSinh {
     String lop;

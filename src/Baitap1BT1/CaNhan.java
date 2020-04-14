@@ -1,4 +1,4 @@
-
+package Baitap1BT1;
 public class CaNhan {
     String hoTen;
     int tuoi;

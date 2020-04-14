@@ -1,4 +1,4 @@
-package app;
+package Baitap1BT1;
 
 public class LopHoc {
     //Them hoc sinh in danh sach hoc sinh

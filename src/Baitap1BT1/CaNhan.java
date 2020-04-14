@@ -24,6 +24,6 @@ public class CaNhan {
         c2.insertRecord("Tien len", 17, "Khanh Hoa", "013843854");
         c1.displayCaNhan();
         c2.displayCaNhan();
-    }
+    } 
     
 }

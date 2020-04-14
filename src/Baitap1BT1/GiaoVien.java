@@ -8,7 +8,7 @@ public class GiaoVien {
     String diaChi;
     String sdt;
     void insertRecord(String h, int t, String d, String s, String m, String tb){  //phuong thuc  
-        hoTen = h;
+        hoTen = h; 
         tuoi = t;
         diaChi = d;
         sdt = s;

@@ -14,7 +14,7 @@ public class HocSinh {
         sdt = s;
         lop = l;
         nangKhieu = n;
-    }  
+    }   
          
     void displayHocSinh(){
         System.out.println("Ho ten : " + hoTen);

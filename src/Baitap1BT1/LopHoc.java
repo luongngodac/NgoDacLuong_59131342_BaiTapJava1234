@@ -7,7 +7,7 @@ public class LopHoc {
         HocSinh c4 = new HocSinh();
         c3.insertRecord("Tien Hoang", 19, "Ha Nam", "002987723", "PSC93", "Noi");
         c4.insertRecord("Thu Hien", 21, "Ninh Thuan", "002386576", "OTP23", "Viet");       
-        c3.displayHocSinh();
+        c3.displayHocSinh(); 
         c4.displayHocSinh();
     }
     //Them giao vien, in danh sach giao vien
